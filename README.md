@@ -5,7 +5,7 @@ I'm a self-taught engineer currently focusing on creating smooth mobile applicat
 
 
 
-- 🌱 I’m currently learning Node.js because I would like to be fullstack engineer
+- 🌱 I’m currently learning Node.js because I would like to be full stack developer
 - 📫 You can reach me via me'at' onurcebecidevelopment@gmail.com in English,Turkish
 
 
