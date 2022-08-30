@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Onur. I'm a self-taught engineer currently focusing on creating smooth mobile applications on Flutter via Dart
+### Hi there 👋I'm Onur
+I'm a self-taught engineer currently focusing on creating smooth mobile applications on Flutter via Dart
 
 
 
